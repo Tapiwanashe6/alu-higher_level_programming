@@ -1,2 +1,1 @@
-Python projects
-Hello World
+javascript-warm_up/
